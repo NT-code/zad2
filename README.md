@@ -6,15 +6,12 @@ To run it first you must create MySQL table users. To do that simply create new 
 # Short info:
 
 /includes/User.php is class user<br>
-/includes/navigation.php is menu bar
-/includes/db_connection.php is for database connection
-/includes/index.html is empty file use when someone tries to lists /includes/ folder in browser 
-And 2 files register.php and login.php all in /includes/ folder are backend logistics 
+/includes/navigation.php is menu bar<br>
+/includes/db_connection.php is for database connection<br>
+/includes/index.html is empty file use when someone tries to lists /includes/ folder in browser <br>
+And 2 files register.php and login.php all in /includes/ folder are backend logistics <br><br>
 
-
-/images/0.jpg  is beckground image
-/css/style.css is css style
-
-
+/images/0.jpg  is beckground image<br>
+/css/style.css is css style<br><br><br>
 
 Best regards to all reading this.
