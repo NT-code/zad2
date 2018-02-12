@@ -14,4 +14,6 @@ And 2 files register.php and login.php all in /includes/ folder are backend logi
 /images/0.jpg  is beckground image<br>
 /css/style.css is css style<br><br><br>
 
+/showcase/ contains screenshots of working project<br><br>
+
 Best regards to all reading this.
