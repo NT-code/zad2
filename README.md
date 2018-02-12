@@ -5,7 +5,7 @@ To run it first you must create MySQL table users. To do that simply create new 
 
 # Short info:
 
-/includes/User.php is class user
+/includes/User.php is class user<br>
 /includes/navigation.php is menu bar
 /includes/db_connection.php is for database connection
 /includes/index.html is empty file use when someone tries to lists /includes/ folder in browser 
